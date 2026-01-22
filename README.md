@@ -1,7 +1,12 @@
 ## Hi there 👋
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+### 🛠 Backend Skill Set
 
+| Backend | DevOps |
+| :--- | :--- |
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/Uvicorn-20232A?style=for-the-badge&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <!--
 **Ganghwai02/Ganghwai02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
