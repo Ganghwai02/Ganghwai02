@@ -1,5 +1,5 @@
 ## Hi there 👋
-### 🛠 Backend Skill Set
+### 🛠 my Skill Set
 
 | Backend | 🎨 Frontend |
 
