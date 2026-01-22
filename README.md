@@ -1,5 +1,5 @@
 ## Hi there 👋
-### 🛠 my Skill Set
+### 🛠 My Skill Set
 
 |     Backend     |
 
