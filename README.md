@@ -1,4 +1,4 @@
-## 안녕하세요~!! 백엔드 개발자 취준생 Ganghwai 이라고 합니다~!! 👋
+## Hi there 👋
 ### 🛠 my Skill Set
 
 | Backend | 🎨 Frontend |
@@ -22,8 +22,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganghwai02&layout=compact&theme=radical" alt="Top Langs" />
 
 
-<!--
-**Ganghwai02/Ganghwai02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Ganghwai02/Ganghwai02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
