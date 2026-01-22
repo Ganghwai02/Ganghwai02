@@ -1,9 +1,9 @@
 ## Hi there 👋
 ### 🛠 Backend Skill Set
 
-| Backend |
+| Backend | 🎨 Frontend |
 | :--- |
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"> 
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/Uvicorn-20232A?style=for-the-badge&logo=python&logoColor=3776AB">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
