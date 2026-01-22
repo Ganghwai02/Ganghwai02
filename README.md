@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요~!! 백엔드 개발자 취준생 Ganghwai 이라고 합니다~!! 👋
 ### 🛠 my Skill Set
 
 | Backend | 🎨 Frontend |
